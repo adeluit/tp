@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background: #f4f4f4; }
+h1 { color: #333; }
+ul { list-style: none; padding: 0; }
+li { background: #fff; margin: 5px 0; padding: 10px; border: 1px solid #ddd; }
+input, button { padding: 10px; }
